@@ -1,5 +1,5 @@
 /*!
-    * TechnoBureau - TB Admin v1.0.0 (https://www.technoburau.com)
+    * TechnoBureau - TB Admin v1.0.1 (https://www.technoburau.com)
     * Copyright 2013-2021 TechnoBureau
     * Licensed under MIT (https://github.com/TechnoBureau/tb-admin/blob/master/LICENSE)
     */
