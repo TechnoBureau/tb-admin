@@ -9,3 +9,13 @@
 {
         padding-top: 5rem;
 }
+//Toggle hide when laoutSidenav_nav is empty
+.sb-sidenav-toggled {
+    #layoutSidenav {
+            #layoutSidenav_content {
+                    &:before {
+                display: none;
+            }
+        }
+    }
+}
